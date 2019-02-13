@@ -1,4 +1,7 @@
 # totcairo
+Task
+
+DevRel MENA Study Jams & TOT
 
 A new Flutter application.
 
